@@ -1,0 +1,23 @@
+Programming languages
+No.	Program	Check version
+1.	Java	java --version (since Java 9)
+java -version
+2.	PHP	php --version
+php -v
+3.	Python	python --version
+python -V
+Runtime environments
+No.	Program	Check version
+1.	Node.js	node --version
+node -v
+Package managers
+No.	Program	Check version
+1.	Composer	composer --version
+composer -V
+2.	npm	npm --version
+npm -v
+3.	Yarn	yarn --version
+yarn -v
+Version control
+No.	Program	Check version
+1.	Git	git --version
