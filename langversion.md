@@ -14,3 +14,4 @@ Programming languages
 |9. | Ruby | ruby -V or ruby --version |
 |10.| javascript | js --version |
 |11.|markdown|  markdown --version|
+|12. | aws | aws --version |
