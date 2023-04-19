@@ -12,3 +12,4 @@ Programming languages
 |7. |Yarn| 	yarn --version  or yarn -v|
 |8. |Git	| git --version | 
 |9. | Ruby | ruby -V or ruby --version |
+|10.| javascript | js --version |
