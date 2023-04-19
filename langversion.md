@@ -1,7 +1,7 @@
 Programming languages
 
 
-|S.no| Name of the Programming  language  | command |
+|S.no| Name  | command |
 | ------------- | ------------- | ------------- |
 |1. | Java  | java --version  |
 |2. | PHP |	php --version or php -v |
