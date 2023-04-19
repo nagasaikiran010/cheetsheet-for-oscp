@@ -15,3 +15,4 @@ Programming languages
 |10.| javascript | js --version |
 |11.|markdown|  markdown --version|
 |12. | aws | aws --version |
+| 13. | mysql | mysql --version |
